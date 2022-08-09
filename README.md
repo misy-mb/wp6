@@ -1,1 +1,1 @@
-# wp6
+# wordpress-sage
